@@ -8,6 +8,3 @@
 
 # stanford-cs193p
 Stanford CS193p 🏫 Swift 5, UIKit, Xcode 11, iOS 12. (c) S. Leschev.
-
-<a href="https://www.codewars.com/users/sergeyleschev"><img alt="Codewars" src="https://www.codewars.com/users/sergeyleschev/badges/small" /></a>
-
